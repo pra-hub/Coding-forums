@@ -17,7 +17,7 @@
     <?php require 'partials/_dbconnect.php'?>
     <?php require 'partials/_header.php'?>
 
-    <!-- Carousel starts from here -->
+    <!-- Carousel starts from here --> 
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
